@@ -1,0 +1,17 @@
+{
+    "controls": [
+      {
+        "name": "firstName",
+        "label": "First name",
+        "value": "xx",
+        "type": "text"
+      },
+      {
+        "name": "lastName",
+        "label": "Last name",
+        "value": "bb",
+        "type": "text"
+      }
+    ]
+  }
+  

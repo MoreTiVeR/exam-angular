@@ -22,9 +22,12 @@
     "lib": [
       "ES2022",
       "dom"
-    ]
+    ],
+    "strictPropertyInitialization": false,
   },
   "angularCompilerOptions": {
+    "suppressImplicitAnyIndexErrors": true,
+    "strictNullChecks":false,
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
